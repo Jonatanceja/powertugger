@@ -1,0 +1,11 @@
+title: Misión, Visión y Valores
+fields:
+  mission:
+    label: Misión
+    type: textarea
+  vision:
+    label: Visión
+    type: textarea
+  values:
+    label: Valores
+    type: textarea

@@ -1,0 +1,72 @@
+Title: TF5 MilSpec
+
+----
+
+Pics:
+
+- file://MWiQ6nub3dw2S2tE
+- file://qTl4RboukjaxCz70
+
+----
+
+Video: https://www.youtube.com/watch?v=vpiGRmvIJC0&ab_channel=TowFLEXXAircraftTugs
+
+----
+
+Brand: towflexx
+
+----
+
+Category: remolcadores-de-aeronaves
+
+----
+
+Description:
+
+###El origen en el ámbito militar
+
+El TowFLEXX TF5 MilSpec tiene sus raíces en el ámbito militar. Todo comenzó con una consulta por parte de la Fuerza Aérea Suiza (Armasuisse), preguntando si teníamos una solución para aviones de combate, específicamente para el F18. Aunque en ese momento no existía tal solución, el desarrollo de un remolcador nuevo y más grande comenzó de inmediato. El resultado de años de desarrollo es el TowFLEXX TF5, un remolcador de aeronaves adecuado no solo para aviones comerciales de hasta 60 toneladas, sino también para aviones de combate como el F15, F16, F18, F22, F35, A10 y muchos más. Sobre esa base, en 2020 se llevó a cabo una refinación adicional de una configuración militar especial (MilSpec) en colaboración con la Fuerza Aérea de los Estados Unidos y otros ejércitos.
+
+----
+
+Aplication: El término MilSpec indica que esta es una "Especificación Militar", lo que implica una configuración especialmente diseñada para uso militar. Por lo tanto, esta versión particular del TF5 ha sido optimizada específicamente para su uso diario en bases militares. ¿De dónde provienen estas optimizaciones? En los últimos años, muchos TF5 han encontrado su lugar en bases militares de todo el mundo, lo que nos ha mantenido en contacto cercano con el personal destacado en ellas. Como resultado, hemos escuchado las opiniones de aquellos que trabajan con nuestras unidades a diario. Juntos, se desarrollaron ideas y mejoras para hacer que los remolcadores TowFLEXX sean aún más fáciles y seguros de usar.
+
+----
+
+Specs:
+
+- Plataforma giratoria única de 360°
+- Motores de engranajes de 10.000W
+- Controles inteligentes CAN-bus
+- Control remoto inalámbrico avanzado
+- Cargador de batería integrado inteligente
+- Faros LED (delanteros y traseros)
+- Montaje de la rueda delantera ajustable
+- Correa reflectante para la rueda delantera
+- Adaptadores de enganche integrados
+- Material antideslizante en la unidad
+- Protectores de cadena en ambos lados
+- Luz estroboscópica ámbar
+- Maleta de equipo táctico
+- Franja central
+- Capacitación gratuita sobre el producto
+
+----
+
+Dimensions:
+
+Dimensiones (mm): 1900 x 2600 x 500
+
+Dimensiones (Inch): 74,8″ x 102,36″ x 19,7″
+
+----
+
+Related:
+
+- page://ANd0txZPDTe1tMsA
+- page://bKfDLisDnPqXJGMk
+- page://T59WmuEAVOLwxhdj
+
+----
+
+Uuid: SJ4TtFj83uLSoNRm

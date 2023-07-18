@@ -1,0 +1,30 @@
+Title: Portada
+
+----
+
+Heading: Empujadores y jaladores electricos y soluciones en manejo de materiales.
+
+----
+
+Text: Somos fabricantes y proveedores de tuggers, remolcadores eléctricos, empujadores y soluciones en el manejo de materiales, carga pesada, automóviles, trenes, trailers y aeronaves.
+
+----
+
+Video: - file://KoWrWbGjkNlhv0vO
+
+----
+
+Buttons:
+
+- 
+  text: Ver productos
+  link: /productos
+  secondary: 'false'
+- 
+  text: Descargar Catálogo
+  link: '#form'
+  secondary: 'true'
+
+----
+
+Uuid: Tmg2RHVb8CqNth0r

@@ -1,0 +1,17 @@
+title: Inicio
+
+sections:
+  parts:
+    headline: Secciones
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - hero
+      - blurbs
+      - intro
+      - related
+      - testimonials
+      - logos
+      - form

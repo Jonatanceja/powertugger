@@ -1,0 +1,9 @@
+title: Imagen
+fields:
+  link:
+    type: url
+    label: Enlace
+  alt:
+    type: text
+    label: Texto alternativo
+

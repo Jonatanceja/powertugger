@@ -1,0 +1,13 @@
+Title: Gracias por su mensaje
+
+----
+
+Text:
+
+# Muchas gracias por su mensaje.
+
+(link: /home text: Volver)
+
+----
+
+Uuid: GSK58ZYSJxTkHVD5

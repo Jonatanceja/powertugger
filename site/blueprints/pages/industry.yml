@@ -1,0 +1,103 @@
+title: Industria
+
+tabs:
+  content:
+    type: fields
+    label: Contenido
+    icon: text
+    fields:
+      icon:
+        label: Icono
+        type: files
+        required: true
+      cover:
+        label: Portada
+        type: files
+        max: 1
+        layout: cards
+        size: huge
+        image:
+          ratio: 16/9
+          cover: true
+        width: 1/2
+      videoTop:
+        label: Video Portada
+        type: files
+        layout: cards
+        width: 1/2
+        size: huge
+        image: 
+          cover: true
+      image_1:
+        label: Imagen 1
+        type: files
+        max: 1
+        layout: cards
+        image:
+          ratio: 16/9
+          cover: true
+        width: 1/2  
+        size: huge
+      description:  
+        label: Descripción
+        type: textarea
+        required: true
+        width: 1/2
+      benefits:
+        label: Beneficios
+        type: textarea
+        required: true
+        width: 1/2
+      image_2:
+        label: Imagen 2
+        type: files
+        required: true
+        max: 1
+        layout: cards
+        image:
+          ratio: 16/9
+          cover: true
+        width: 1/2
+        size: huge
+      video:
+        label: Video
+        type: url
+        required: true
+        width: 1/2
+      video_2:
+        label: Video 2
+        type: url
+        width: 1/2
+      how:
+        label: ¿Cómo funciona?
+        type: textarea
+        required: true
+      short:
+        label: Descripción corta
+        type: textarea
+        required: true
+      related:
+        label: Productos relacionados
+        type: pages
+        required: true
+        template: product
+  
+  products:
+    label: Productos
+    icon: text
+    preset: pages
+    options:
+      url: false
+      status: false
+      delete: false
+    drafts:
+      extends: sections/articles
+      headline: Productos en borrador
+    unlisted:
+      extends: sections/articles
+      headline: Productos sin publicar
+    listed:
+      extends: sections/articles
+      headline: Productos publicados
+    templates:
+      - product

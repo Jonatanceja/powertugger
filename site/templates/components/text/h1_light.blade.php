@@ -1,0 +1,1 @@
+<h1 class="text-2xl md:text-5xl font-bold max-w-2xl tracking-wider text-white" style="text-shadow: 2px 2px 4px #000;">{{ $slot }}</h1>

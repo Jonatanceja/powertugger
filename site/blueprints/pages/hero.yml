@@ -1,0 +1,34 @@
+title: Hero
+fields:
+  heading:
+    label: Encabezado
+    type: text
+  text:
+    label: Texto
+    type: textarea
+  video:
+    label: Video
+    type: files
+    max: 1
+    accept: video/*
+    required: true
+  buttons:
+    label: Botones
+    type: structure
+    fields:
+      text:
+        label: Texto
+        type: text
+      link:
+        label: Enlace
+        type: text
+        default: #
+        validate:
+          message: Debe ser una URL válida
+      secondary:
+        label: Secundario
+        type: toggle
+        default: false
+        text:
+          - "No"
+          - "Si"

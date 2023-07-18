@@ -1,0 +1,7 @@
+title: Destacados
+fields:
+  related:
+    label: Productos destacados
+    type: pages
+    required: true
+    template: product  

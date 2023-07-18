@@ -1,0 +1,83 @@
+title: Productos
+
+tabs:
+  products:
+    label: Productos
+    sections:
+      listed:
+        type: pages
+        templates:
+          - product
+        extends: sections/product
+        headline: Productos publicados
+        layout: cards
+        status: published
+
+      drafts:
+        type: pages
+        templates:
+          - product
+          - search
+        extends: sections/artists
+        headline: Productos sin publicar
+        layout: cards
+        status: draft
+  
+  tags:
+    type: fields
+    label: Etiquetas
+    icon: tag
+    fields:
+      categories:
+        label: Categorías
+        type: tags
+        width: 1/2
+        options:
+          - value: remolcadores-de-aeronaves
+            text: Remolcadores de aeronaves
+          - value: remolcadores-de-trailers-y-cajas-secas
+            text: Remolcadores de trailers y cajas secas
+          - value: remolcadores-de-automoviles
+            text: Remolcadores de automoviles
+          - value: empujadores-y-jaladores-industriales
+            text: Empujadores y jaladores industriales
+          - value: empujadores-de-vagones-de-tren
+            text: Empujadores de vagones de tren
+          - value: empujadores-y-jaladores-hospitalarios
+            text: Empujadores y jaladores hospitalarios
+          - value: empujadores-de-contenedores-de-basura
+            text: Empujadores de contenedores de basura
+          - value: carretillas-electricas
+            text: Carretillas electricas
+      brand:
+        label: Marcas
+        type: tags
+        width: 1/2
+        options:
+          - value: dj-products
+            text: Dj Products
+          - value: towflexx
+            text: Towflexx
+          - value: columbia
+            text: Columbia
+        icons:
+          label: Iconos
+          type: structure
+          fields: 
+            logos:
+              type: files
+              label: Icono
+              max: 1
+              layout: cards
+              width: 1/4
+              image:
+                ratio: 1/1
+                back: white
+            brand:
+              type: select
+              label: Marca
+              width: 3/4
+              options: query
+              query: page.technologies.split
+  
+  

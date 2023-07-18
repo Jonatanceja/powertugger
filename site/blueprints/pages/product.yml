@@ -1,0 +1,54 @@
+title: Producto
+columns:
+  left:
+    width: 1/2
+    sections:
+      gallery:
+        type: fields
+        fields:
+          pics:
+            label: Imagen del producto
+            type: files
+            layout: cards
+            image: 
+              cover: true
+          video:
+            label: Video
+            type: url
+  right:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          brand:
+            type: multiselect
+            options: query
+            query: page.parent.brand.split
+            label: Marca
+          category:
+            type: multiselect
+            options: query
+            query: page.parent.categories.split
+            label: Categoría
+          description:
+            type: textarea
+            label: Descripción
+          aplication:
+            type: textarea
+            label: Aplicación
+          specs:
+            type: textarea 
+            label: Características
+          dimensions:
+            type: textarea
+            label: Dimensiones
+          related:
+            label: Productos relacionados
+            type: pages
+            required: true
+            template: product  
+          
+
+          
+          

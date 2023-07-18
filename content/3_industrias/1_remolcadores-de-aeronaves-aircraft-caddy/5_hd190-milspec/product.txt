@@ -1,0 +1,75 @@
+Title: HD190 MilSpec
+
+----
+
+Pics:
+
+- file://VgIXpe0s3ZIAqxTe
+- file://EbtxfsLR21cW2nVF
+
+----
+
+Video: https://www.youtube.com/watch?v=pLfY3U9ilE0&ab_channel=TowFLEXXAircraftTugs
+
+----
+
+Brand: towflexx
+
+----
+
+Category: remolcadores-de-aeronaves
+
+----
+
+Description:
+
+###La Fuerza Aérea de los Estados Unidos estaba buscando una solución
+
+Al igual que el TF5, el HD190 tiene sus raíces en el ámbito militar. Inicialmente, existía un problema para el cual no había una solución en ese momento. En el caso del Lockheed C-130, no había una solución adecuada para remolcarlo de manera rápida y sencilla en tierra. Se necesitaba un remolcador con un peso muerto alto para proporcionar la tracción necesaria. Debido a la vulnerabilidad de la rueda delantera, se colocaban dos lazos largos en el tren de aterrizaje principal, que se unían frente a la rueda delantera y luego se ataban al remolcador. En resumen, era un proceso tedioso con un alto nivel de recursos humanos. Además, durante una misión SIEMPRE había una dependencia del personal de tierra. Además, el diseño de la aeronave con la rueda delantera medio retraída en el fuselaje es la razón por la cual no todos los remolcadores de aeronaves son adecuados.
+
+----
+
+Aplication:
+
+###Independiente con el HD190 MilSpec
+
+En el momento en que se solicitó una solución de remolque para un C-130, más de 70 TF5 MilSpecs ya estaban en servicio con la Fuerza Aérea de los Estados Unidos. Lo que inicialmente se pretendía que fuera una mejora de rendimiento para el TF5 resultó ser una serie de productos independiente durante el proceso de diseño. El nuevo producto no solo permitía levantar el C-130 mediante la rueda delantera y transportarlo a su destino, sino que las dimensiones del HD190 estaban adaptadas para encajar en una plataforma 463 y, por lo tanto, podía llevarse en misiones en la bodega de carga. Como complemento y para facilitar aún más las cosas, el HD190 puede conducirse dentro y fuera de la aeronave a través de la rampa de carga, lo que brinda la solución perfecta para la autosuficiencia en el campo.
+
+----
+
+Specs:
+
+- Mecanismo de captura automática de la rueda delantera
+- Mecanismo automático de amarre de la rueda delantera
+- Motores de tracción de 20.000W
+- Controles inteligentes CAN-bus
+- Control remoto inalámbrico avanzado
+- Cargador de batería integrado inteligente
+- Faros LED (delanteros y traseros)
+- Material antideslizante en la unidad
+- Protectores de cadena en ambos lados
+- Luz estroboscópica ámbar
+- Maleta de equipo táctico
+- Franja central
+- Capacitación gratuita sobre el producto
+
+----
+
+Dimensions:
+
+Dimensiones (mm): 2700 x 2050 x 500
+
+Dimensiones (inch): 106,3″ x 80,7″ x 19,68″
+
+----
+
+Related:
+
+- page://SJ4TtFj83uLSoNRm
+- page://ANd0txZPDTe1tMsA
+- page://bKfDLisDnPqXJGMk
+- page://T59WmuEAVOLwxhdj
+
+----
+
+Uuid: BQaJRmtHLeyRqdvY

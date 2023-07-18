@@ -1,0 +1,26 @@
+Title: Testimonios
+
+----
+
+Testimonials:
+
+- 
+  name: Carlos Hernández
+  position: Transportes Hernández
+  text: >
+    El Trailer Caddy de DJ Products ha sido
+    verdaderamente un salvavidas para mi
+    negocio. Ahora puedo transportar cargas
+    pesadas de manera eficiente y sin
+    esfuerzo, lo que me ha ahorrado tiempo y
+    energía. ¡Recomendaría este
+    increíble producto a cualquier persona
+    que necesite una solución confiable y
+    fácil de usar para el movimiento de
+    remolques y carros pesados!
+  pic:
+    - file://wzQF60Ux1Ki93BU6
+
+----
+
+Uuid: TQd1kRBkG1LrzmFd

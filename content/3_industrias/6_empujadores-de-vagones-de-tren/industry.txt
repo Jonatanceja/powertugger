@@ -1,0 +1,58 @@
+Title: Empujadores de vagones de tren
+
+----
+
+Icon: - file://P9OC1xlMUyZxlpc8
+
+----
+
+Cover: - file://iwSanYQpNx4TSMlL
+
+----
+
+Videotop: - file://m8T3cev3s5fDoxOA
+
+----
+
+Image-1: - file://AK8pX0twCSesW1eM
+
+----
+
+Description: Potencia tus operaciones de manejo de carga con nuestros remolcadores especializados para cajas de trailer. Diseñados para brindar máxima eficiencia y maniobrabilidad, nuestros remolcadores son capaces de remolcar cargas pesadas de hasta 40 toneladas. Con una autonomía de hasta 8 horas y la conveniencia de recargarse fácilmente con un enchufe de 110 voltios, son ideales para maniobrar en espacios reducidos en centros de distribución, andenes de carga y procesos de fabricación de cajas de trailer. Optimiza tus operaciones con nuestros remolcadores de cajas de trailer confiables y eficientes.
+
+----
+
+Benefits: Optimiza el movimiento de vagones de tren con nuestros remolcadores especializados.
+
+----
+
+Image-2: - file://SVuBNs99z97Znj97
+
+----
+
+Video: https://www.youtube.com/watch?v=DVyGpXUjeEU
+
+----
+
+Video-2: 
+
+----
+
+How:
+
+Utilizando su fuerza de tracción, el remolcador puede mover el trailer o la caja de manera eficiente y segura en espacios reducidos, como almacenes, centros de distribución o áreas de carga y descarga.
+Estos remolcadores suelen estar equipados con controles ergonómicos y sistemas de dirección precisos para permitir al operador maniobrar con facilidad y precisión. 
+
+Además, pueden contar con características adicionales, como frenos de emergencia, sistemas de suspensión ajustables y tracción en todas las ruedas para enfrentar terrenos desafiantes.
+
+----
+
+Short: Optimiza el movimiento de vagones de tren con nuestros remolcadores especializados.
+
+----
+
+Related: - page://aQnFWcueSkC4pIgI
+
+----
+
+Uuid: QrNRcYvsEGfb1PRr

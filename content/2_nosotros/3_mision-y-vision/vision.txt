@@ -1,0 +1,17 @@
+Title: Misión y visión
+
+----
+
+Mission: Nuestra misión es proporcionar soluciones de manejo de materiales de alta calidad que optimicen la eficiencia y la productividad de nuestros clientes. Nos comprometemos a ofrecer productos confiables, innovadores y sostenibles, respaldados por un excepcional servicio al cliente.
+
+----
+
+Vision: Nuestra visión es ser líderes en soluciones de manejo de materiales, ofreciendo productos y servicios de calidad que impulsen la eficiencia y el éxito de nuestros clientes. Nos esforzamos por ser reconocidos por nuestra innovación, confiabilidad y compromiso con la satisfacción del cliente.
+
+----
+
+Values: Nos esforzamos por ofrecer productos y servicios de la más alta calidad para garantizar la satisfacción y confianza de nuestros clientes y fomentamos la innovación en todas las áreas de nuestra empresa para brindar soluciones eficientes y avanzadas
+
+----
+
+Uuid: 5XsO4kZ1zL1Vnvkx

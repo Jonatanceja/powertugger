@@ -1,0 +1,58 @@
+Title: Industrias
+
+----
+
+Cover: - file://x5EilBtz03GCT0a8
+
+----
+
+Headline: Calidad que marca la diferencia
+
+----
+
+Subtitle: Nuestros Productos
+
+----
+
+Image-1: - file://cbsc581pMi7DLurM
+
+----
+
+Image-2: - file://NYacDh7XFgxIDecX
+
+----
+
+Blurb:
+
+- 
+  heading: Innovación y Eficiencia
+  text: >
+    Nuestros productos ofrecen soluciones
+    inteligentes que optimizan los procesos
+    y reducen los tiempos de trabajo,
+    mejorando la productividad en tu lugar
+    de trabajo.
+  icon:
+    - file://vHrg3l2xjo9hKkxm
+- 
+  heading: Durabilidad sobresaliente
+  text: >
+    Nuestros tuggers están construidos para
+    resistir las demandas más exigentes del
+    entorno industrial.
+  icon:
+    - file://2xHolSsnFl0mVGET
+- 
+  heading: Cero emisiones
+  text: >
+    Nuestros remolcadores eléctricos son la
+    solución ecológica y sostenible para
+    el manejo de materiales. Disfruta de un
+    rendimiento potente y eficiente sin
+    dejar huella de carbono.
+  icon:
+    - file://182HyU6RwA7izxyz
+
+----
+
+Uuid: M9SlnX92F1OtCa4G

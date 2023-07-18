@@ -1,0 +1,29 @@
+Title: Acerca de
+
+----
+
+Headline: Lideres en la fabricación de Tuggers Eléctricos
+
+----
+
+Subtitle: Acerca de
+
+----
+
+Image-1: - file://nukSCcPw6YBakhf6
+
+----
+
+Image-2: - file://LSsGhqspVYuNKBF1
+
+----
+
+Text:
+
+Nuestra compañía es un líder en proveer soluciones para el manejo de materiales, trailers, automóviles, trenes, aeronaves y carga pesada. Con mas de 20 años como fabricantes de Tuggers Eléctricos a nivel mundial bajo la marca de DJ Products.
+
+Ofrecemos una amplia gamma de remolcadores y empujadores eléctricos así como soluciones especializadas para el manejo de materiales en diversos sectores, como la industria manufacturera, logística y transporte.
+
+----
+
+Uuid: nMhosxzL6W1bGq6o

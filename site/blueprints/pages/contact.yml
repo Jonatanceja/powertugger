@@ -1,0 +1,22 @@
+title: Contacto
+fields:
+  cover:
+    label: Imagen de portada
+    type:  files
+    max: 1
+  heading:
+    label: Título
+    type:  text
+  text:
+    label: Texto
+    type:  textarea
+  faq:
+    label: Preguntas frecuentes
+    type: structure
+    fields:
+      question:
+        label: Pregunta
+        type: text
+      answer:
+        label: Respuesta
+        type: textarea

@@ -1,0 +1,21 @@
+Title: Formulario
+
+----
+
+Heading: Catálogo
+
+----
+
+Subtitle: Descarga nuestro catálogo
+
+----
+
+Text: Completa el formulario a continuación para descargar nuestro catálogo y descubrir nuestra amplia gama de productos y soluciones de manejo de materiales. ¡No pierdas esta oportunidad de optimizar tus operaciones y mejorar la eficiencia en tu lugar de trabajo! Simplemente ingresa tus datos y recibirás el enlace de descarga en segundos.
+
+----
+
+Pic: - file://vfhRdiEqYkKdGYoc
+
+----
+
+Uuid: d4UwJGwW7Wpm5pY2

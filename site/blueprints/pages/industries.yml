@@ -1,0 +1,67 @@
+title: Productos
+
+tabs:
+  industries:
+    label: Industrias
+    sections:
+      listed:
+        type: pages
+        templates:
+          - industry
+        headline: Industrias
+        status: published
+
+      drafts:
+        type: pages
+        templates:
+          - industry
+        extends: sections/artists
+        headline: Industrias sin publicar
+        status: draft
+  
+  content:
+    type: fields
+    label: Contenido
+    icon: text
+    fields:
+      cover:
+        type: files
+        label: Imagen de portada
+        icon: picture-o
+        max: 1
+      headline:
+        type: text
+        label: Título
+        icon: heading
+      subtitle:
+        type: text
+        label: Subtítulo
+        icon: heading
+      image_1:
+        type: files
+        label: Imagen 1
+        max: 1
+        width: 1/2
+      image_2:    
+        type: files
+        label: Imagen 2
+        max: 1
+        width: 1/2
+      blurb:
+        type: structure
+        label: Caracteristicas 
+        fields:
+          heading:
+            type: text
+            label: Título
+          text:
+            type: textarea
+            label: Texto
+          icon:
+            type: files
+            label: Icono
+            max: 1
+      
+
+  
+  

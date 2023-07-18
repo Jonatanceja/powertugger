@@ -1,0 +1,35 @@
+title: Introducción
+fields:
+  cover:
+    label: Portada
+    type: files
+    required: true
+    max: 1
+  subtitle:
+    label: Subtítulo
+    type: text
+    required: true
+  heading:
+    label: Título
+    type: text
+    required: true
+  text:
+    label: Texto
+    type: textarea
+    required: true
+  pic_1: 
+    label: Imagen 1
+    type: files
+    required: true
+    max: 1
+    layout: cards
+    width: 1/2
+    size: huge
+  pic_2:
+    label: Imagen 2
+    type: files
+    required: true
+    max: 1
+    layout: cards
+    width: 1/2
+    size: huge

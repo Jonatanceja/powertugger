@@ -1,0 +1,15 @@
+title: Formulario
+fields:
+  heading:
+    label: Título
+    type:  text
+  subtitle:
+    label: Subtítulo
+    type:  text
+  text:
+    label: Texto
+    type:  textarea
+  pic:
+    label: Imagen
+    type: files
+    max: 1

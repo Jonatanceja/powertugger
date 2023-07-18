@@ -1,0 +1,19 @@
+title: Testimonios
+fields:
+  testimonials:
+    label: Testimonios
+    type: structure
+    fields:
+      name:
+        label: Nombre
+        type: text
+      position:
+        label: Posición
+        type: text
+      text:
+        label: Texto
+        type: textarea
+      pic:
+        label: Imagen
+        type: files
+        max: 1

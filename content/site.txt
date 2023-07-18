@@ -1,1 +1,78 @@
-Title: Site Title
+Title: Power Tugger
+
+----
+
+Phone: 3332592177
+
+----
+
+Phone2: 3341612410
+
+----
+
+Email: contacto@powertugger.com
+
+----
+
+Whatsapp: https://wa.me/+52523332592177?text=Hola,%20escribo%20desde%20tu%20sitio%20web,%20me%20gustar%C3%ADa%20mas%20informaci%C3%B3n.%20
+
+----
+
+Address: Avenida Acueducto 6075-A, Local 4, Puerta De Hierro, Zapopan, Jal. Cp. 45116
+
+----
+
+Schedule: Lunes a Viernes de 9:00 a 19:00
+
+----
+
+Schedule2: 
+
+----
+
+Facebook: https://www.facebook.com/powertugger/
+
+----
+
+Instagram: https://www.instagram.com/powertugger/
+
+----
+
+Description: Tuggers eléctricos y soluciones en manejo de materiales.
+
+----
+
+Pixel: 
+
+----
+
+Analytics:
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D921QHYPV5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D921QHYPV5');
+</script>
+
+----
+
+Opengraph: - file://YOZbnuzelAwOJmin
+
+----
+
+Industries:
+
+- page://ImtwhBhxCoJWHHMi
+- page://EEOhrtxK6jfG1swD
+- page://YfMkN7F8i53Qx6O4
+
+----
+
+Products:
+
+- page://RgklLqjDIBhivK5O
+- page://ir8HnjNewnz405F8

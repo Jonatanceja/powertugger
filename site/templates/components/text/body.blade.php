@@ -1,0 +1,1 @@
+<p class="prose prose-stone">{{ $slot }}</p>
