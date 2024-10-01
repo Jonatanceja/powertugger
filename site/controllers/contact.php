@@ -1,25 +1,48 @@
 <?php
 
 return function ($kirby) {
+
     if ($kirby->request()->is('POST')) {
-        $data = $kirby->request()->data();
-        
-        // Aquí puedes validar los datos del formulario antes de enviarlos
-        
-        // Aquí puedes procesar y enviar el correo electrónico con los datos del formulario
-        $to = 'contacto@powertugger.com';
-        $subject = 'Nuevo mensaje del formulario';
-        $message = "Nombre: {$data['nombre']}\n";
-        $message .= "Correo electrónico: {$data['correo']}\n";
-        $message .= "Teléfono: {$data['telefono']}\n";
-        $message .= "Empresa: {$data['empresa']}\n";
-        
+        // Obtén los datos del formulario
+        $nombre = $kirby->request()->get('nombre');
+        $correo = $kirby->request()->get('correo');
+        $telefono = $kirby->request()->get('telefono');
+        $empresa = $kirby->request()->get('empresa');
+        $producto = $kirby->request()->get('producto');
+        $aplicacion = $kirby->request()->get('aplicacion');
+        $peso = $kirby->request()->get('peso');
+
+        // Validar que todos los campos obligatorios estén completos
+        if (empty($nombre) || empty($correo) || empty($telefono) || empty($empresa) || empty($producto) || empty($aplicacion) || empty($peso)) {
+            echo 'error'; // Puedes cambiar esto por cualquier otra respuesta o mensaje de error
+            die(); // Detiene la ejecución del script
+        }
+
+        // Procesa el formulario y envía el correo electrónico
+        $to = 'contacto@powertugger.com, jonatanjonas@gmail.com';
+        $subject = 'Nuevo formulario de contacto';
+        $message = "Nombre: $nombre\n";
+        $message .= "Correo electrónico: $correo\n";
+        $message .= "Teléfono: $telefono\n";
+        $message .= "Empresa: $empresa\n";
+        $message .= "Producto de interés: $producto\n";
+        $message .= "Aplicación de uso: $aplicacion\n";
+        $message .= "Peso a mover: $peso\nkg";
+
         // Envía el correo electrónico
-        mail($to, $subject, $message);
-        
-        // Puedes agregar cualquier lógica adicional que necesites después de enviar el correo
-        
-        // Redirige al usuario a una página de éxito o agradecimiento (opcional)
-        go('gracias-por-su-mensaje');
+        $sent = mail($to, $subject, $message);
+
+        if ($sent) {
+            // El correo se envió correctamente
+            go('descarga'); // Reemplaza 'tu-thank-you-page' con la ruta real de tu página de agradecimiento
+        } else {
+            // Hubo un error al enviar el correo
+            echo 'error'; // Puedes cambiar esto por cualquier otra respuesta o mensaje de error
+        }
+
+        // Detiene la ejecución de la página para evitar que se renderice el contenido de la plantilla
+        die();
+
     }
+
 };

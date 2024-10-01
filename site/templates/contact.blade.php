@@ -25,39 +25,7 @@
             </div>
         </div>
         <div class="max-w-3xl mx-auto py-5">
-            <form class="" method="POST" action="submit.php">
-                <div class="block md:flex md:space-x-5">
-                    <div class="mb-4 w-full">
-                        <label class="block text-stone-200 text-sm font-bold mb-2" for="nombre">
-                          Nombre
-                        </label>
-                        <input class="w-full border border-stone-200 py-2 px-3 text-stone-200 leading-tight focus:outline-none focus:border-stone-600 bg-transparent" id="nombre" name="nombre" type="text" placeholder="Nombre">
-                    </div>
-                    <div class="mb-4 w-full">
-                        <label class="block text-stone-200 text-sm font-bold mb-2" for="correo">
-                          Correo electrónico
-                        </label>
-                        <input class="w-full border border-stone-200 py-2 px-3 text-stone-200 leading-tight focus:outline-none focus:border-stone-600 bg-transparent" id="correo" name="correo" type="email" placeholder="Correo electrónico">
-                    </div>
-                </div>
-                <div class="block md:flex md:space-x-5">
-                    <div class="mb-4 w-full">
-                        <label class="block text-stone-200 text-sm font-bold mb-2" for="telefono">
-                          Teléfono
-                        </label>
-                        <input class="w-full border border-stone-200 py-2 px-3 text-stone-200 leading-tight focus:outline-none focus:border-stone-600 bg-transparent" id="telefono" name="telefono" type="text" placeholder="Teléfono">
-                      </div>
-                      <div class="mb-6 w-full">
-                        <label class="block text-stone-200 text-sm font-bold mb-2" for="empresa">
-                          Empresa
-                        </label>
-                        <input class="w-full border border-stone-200 py-2 px-3 text-stone-200 leading-tight focus:outline-none focus:border-stone-600 bg-transparent" id="empresa" name="empresa" type="text" placeholder="Empresa">
-                      </div>
-                </div>
-                <div class="flex items-center justify-center">
-                  <x-buttons.primary type="submit">Enviar</x-buttons.primary>
-                </div>
-              </form>
+            @include('partials.form')
         </div>
     </div>
 </section>

@@ -1,1 +1,1 @@
-<p class="prose prose-stone">{{ $slot }}</p>
+<p class="prose prose-stone text-justify">{{ $slot }}</p>

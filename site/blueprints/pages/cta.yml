@@ -1,0 +1,20 @@
+title: Llamado a la acción
+fields:
+  video:
+    type: url
+    label: Video
+  headline:
+    type: text
+    label: Título
+    icon: heading
+  subtitle:
+    type: text
+    label: Subtítulo
+    icon: heading
+  text:
+    type: textarea
+    label: Texto
+    icon: file-text-o
+  button:
+    type: text
+    label: Enlace Botón

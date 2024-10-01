@@ -12,6 +12,12 @@ fields:
     max: 1
     accept: video/*
     required: true
+  videoMobile:
+    label: Video
+    type: files
+    max: 1
+    accept: video/*
+    required: true
   buttons:
     label: Botones
     type: structure

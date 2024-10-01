@@ -1,7 +1,7 @@
 <header class="block fixed w-full z-50 top-0">
     <x-menu.top />
     <nav class="flex items-center py-5 md:py-0 px-5 md:px-0" x-data="{ isOpen: false }"
-        @keydown.escape="isOpen = false" :class="{ 'shadow-md md:bg-black bg-white' : isOpen , 'md:bg-black/90 bg-white shadow-sm' : !isOpen}" x-cloak>
+        @keydown.escape="isOpen = false" :class="{ 'shadow-md md:bg-black bg-white' : isOpen , 'md:bg-black/90 bg-white shadow-sm' : !isOpen}">
         
         <div class="container mx-auto">
             <div class="flex">
@@ -28,7 +28,11 @@
                     @foreach ($site->children()->listed() as $subpage)
                         <div x-data="{ open: false }" class="block">
                             <button @click="open = !open" class="block pl-3 pr-9 text-stone-800 md:text-white no-underline hover:text-amber-400 uppercase relative">
-                                @if ($subpage->slug() === 'industrias')
+                                @if ($subpage->slug() === 'productos')
+                                    <span class="inline-block text-stone-800 md:text-white no-underline hover:text-amber-400 uppercase text-sm" @click="isOpen = false">{{ $subpage->title() }}</span>
+                                    <i class="lni lni-chevron-down" x-show="!open"></i>
+                                    <i class="lni lni-chevron-up" x-show="open"></i>
+                                @elseif ($subpage->slug() === 'industrias')
                                     <span class="inline-block text-stone-800 md:text-white no-underline hover:text-amber-400 uppercase text-sm" @click="isOpen = false">{{ $subpage->title() }}</span>
                                     <i class="lni lni-chevron-down" x-show="!open"></i>
                                     <i class="lni lni-chevron-up" x-show="open"></i>
@@ -39,7 +43,25 @@
                             <!-- Megamenu -->
                             <div x-show="open" @click.away="open = false" class="z-50 w-full md:shadow-md text-stone-800 md:text-white">
                                 <div class="md:grid md:grid-cols-4 gap-20 md:absolute md:bg-black/90 md:inset-x-0 md:px-10 pb-2 md:py-10">
-                                    @if ($subpage->slug() === 'industrias')
+                                    @if ($subpage->slug() === 'productos')
+                                        <div class="md:block text-sm space-y-2">
+                                            <p class="inline-block text-sm no-underline uppercase font-bold ml-1 md:ml-0">Categorías</p>
+                                            <x-menu.categories />
+                                        </div>
+                                        @foreach ($site->products()->toPages() as $product)
+                                            <a href="{{ $product->url() }}">
+                                                <div class="space-y-3 wow fadeInUp relative transition transform hover:scale-105">
+                                                    @if ($image = $product->pics()->toFile())
+                                                        <img class="hover:shadow-md" src="{{ $image->crop(300, 400)->url() }}" alt="">
+                                                    @endif
+                                                    <div class="absolute w-full bottom-0 pt-6 pb-3 px-5 bg-gradient-to-t from-stone-900 to-transparent">
+                                                    <h3 class="font-bold text-sm text-white">{{ $product->title() }}</h3>
+                                                    <h4 class="text-amber-400 text-sm">{{ $product->brand()->text() }}</h4>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        @endforeach
+                                    @elseif ($subpage->slug() === 'industrias')
                                         <div class="md:block text-sm space-y-2">
                                             <p class="inline-block no-underline uppercase font-bold ml-1 md:ml-0">Industrias</p>
                                             <ul class="space-y-2">
@@ -71,7 +93,7 @@
                         </div>
                     @endforeach
                 </ul>
-                <div class="block md:flex justify-center md:justify-end items-center md:space-x-5 space-y-5 md:space-y-0">
+                <div class="block md:flex justify-center md:justify-end items-center md:space-x-5 space-y-5 md:space-y-0 bg-black">
                     <div class="flex items-center space-x-5 justify-center md:justify-end">
                         <div class="text-amber-400 text-2xl transform transition md:hover:scale-110">
                             <a class="" href="{{ $site->facebook() }}" target="blank"><i class="lni lni-facebook-original"></i></a>
@@ -81,7 +103,12 @@
                         </div>
                     </div>
                     <div class="flex justify-center md:justify-end">
-                        <x-buttons.primary><a href="/contacto">Solicitar Cotización</a></x-buttons.primary>
+                        <x-buttons.primary>
+                            <a href="/contacto" 
+                               onclick="gtag('event', 'conversion', { 'send_to': 'AW-CONVERSION_ID/CONVERSION_LABEL' });">
+                                Solicitar un Presupuesto
+                            </a>
+                        </x-buttons.primary>
                     </div>
                 </div>
             </div>

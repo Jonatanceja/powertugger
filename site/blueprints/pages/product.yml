@@ -46,7 +46,6 @@ columns:
           related:
             label: Productos relacionados
             type: pages
-            required: true
             template: product  
           
 

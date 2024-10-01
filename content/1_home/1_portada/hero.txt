@@ -2,15 +2,19 @@ Title: Portada
 
 ----
 
-Heading: Empujadores y jaladores electricos y soluciones en manejo de materiales.
+Heading: Mueve cargas pesadas de manera sencilla
 
 ----
 
-Text: Somos fabricantes y proveedores de tuggers, remolcadores eléctricos, empujadores y soluciones en el manejo de materiales, carga pesada, automóviles, trenes, trailers y aeronaves.
+Text: Los arrastradores eléctricos ofrecen una manera segura y controlada de mover cargas pesadas sobre ruedas. Gracias a su diseño compacto y su potencia de carga.
 
 ----
 
-Video: - file://KoWrWbGjkNlhv0vO
+Video: - file://hpzUiUIH5N2YuKbT
+
+----
+
+Videomobile: - file://hpzUiUIH5N2YuKbT
 
 ----
 
@@ -21,7 +25,7 @@ Buttons:
   link: /productos
   secondary: 'false'
 - 
-  text: Descargar Catálogo
+  text: Solicita un presupuesto
   link: '#form'
   secondary: 'true'
 

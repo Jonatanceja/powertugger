@@ -1,0 +1,65 @@
+Title: Testimonios
+
+----
+
+Testimonials:
+
+- 
+  name: Carlos Hernández
+  position: Transportes Hernández
+  text: >
+    El Trailer Caddy de DJ Products ha sido
+    verdaderamente un salvavidas para mi
+    negocio. Ahora puedo transportar cargas
+    pesadas de manera eficiente y sin
+    esfuerzo, lo que me ha ahorrado tiempo y
+    energía. ¡Recomendaría este
+    increíble producto a cualquier persona
+    que necesite una solución confiable y
+    fácil de usar para el movimiento de
+    remolques y carros pesados!
+  pic:
+    - file://wzQF60Ux1Ki93BU6
+- 
+  name: Roberto Navarro
+  position: Almacenes de Frutas de Occidente
+  text: >
+    ¡El Trailer Caddy ha sido una verdadera
+    revolución en nuestra empresa! Nos ha
+    permitido mover grandes cargas de manera
+    rápida y segura. ¡Nuestro equipo está
+    realmente impresionado con su
+    rendimiento y eficiencia!
+  pic:
+    - file://tZGdtpKA1uxZuTRI
+- 
+  name: Alvaro Sambueza
+  position: Magitech
+  text: >
+    Desde que implementamos el Cart Caddy en
+    nuestro almacén, hemos notado una
+    mejora significativa en nuestra
+    productividad. Ahora podemos mover
+    nuestros carros de manera fácil y sin
+    esfuerzo, lo que ha simplificado
+    enormemente nuestras operaciones
+    diarias.
+  pic:
+    - file://C1x9aQc6PGa91qcA
+- 
+  name: Adalberto Ochoa
+  position: Ochoa Logistics
+  text: >
+    Lo que más me gusta del Trailer Caddy
+    es su versatilidad. No solo es perfecto
+    para mover remolques pesados, sino que
+    también es muy útil para transportar
+    otros equipos y materiales. ¡Es como
+    tener un asistente confiable en todo
+    momento!
+  pic:
+    - file://LkoWnoAKmJFvDFgV
+
+----
+
+Uuid: TQd1kRBkG1LrzmFd

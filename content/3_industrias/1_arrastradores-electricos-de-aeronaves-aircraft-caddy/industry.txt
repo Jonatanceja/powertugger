@@ -1,0 +1,81 @@
+Title: Arrastradores eléctricos de aeronaves Aircraft Caddy
+
+----
+
+Icon: - file://Fn044mZlQ5joIt7H
+
+----
+
+Videotop: - file://l6lhYeXIH4iFwOxz
+
+----
+
+Image-1: - file://QtMSdYMuR8fBnMbB
+
+----
+
+Description: Los operadores de la industria aeronáutica confían en los remolcadores de DJ Products para obtener confianza y control total en el manejo de aeronaves ligeras y pesadas con distintas envergaduras y modelos. Nuestros remolcadores eléctricos permiten a un solo usuario mover aeronaves grandes de manera rápida y segura, optimizando y reduciendo los tiempos de traslado y acomodo de aeronaves en lo hangares.
+
+----
+
+Benefits:
+
+Una manera segura y eficiente de mover aviones en pistas y hangares.
+
+- Maximizar eficiencia
+- Eliminar carga humana
+- Cargas más precisas
+- Cero emisiones
+
+----
+
+Image-2: - file://SuUa0n7LgsvDAjsq
+
+----
+
+Video: https://www.youtube.com/watch?v=KJH6hHrErj8&t=3s&ab_channel=DJProducts%2CInc.
+
+----
+
+Video-2: 
+
+----
+
+Video-3: 
+
+----
+
+How:
+
+El funcionamiento de un remolcador de aeronaves varía dependiendo del modelo y características del avión. Estos equipos están diseñados para acoplarse a la nariz o el tren de aterrizaje del avión, utilizando dispositivos de enganche especializados.
+
+El remolcador utiliza su fuerza y tracción para tirar o empujar el avión, permitiendo maniobrarlo por las áreas de estacionamiento, pistas de rodaje o hangares. Los remolcadores de aeronaves también suelen contar con sistemas de dirección y frenado para garantizar un movimiento preciso y seguro.
+
+----
+
+Short: Una manera segura y eficiente de mover aviones en pistas y hangares.
+
+----
+
+Related: - page://FWqH2kliBvF3t1Xr
+
+----
+
+Cover: 
+
+----
+
+Brands:
+
+- 
+  logo:
+    - file://RgDJopnwpHPDKPbK
+  link: /productos/brand:dj-products
+- 
+  logo:
+    - file://OLRVR3NVPrSxw3Qi
+  link: /productos/brand:towflexx
+
+----
+
+Uuid: ImtwhBhxCoJWHHMi

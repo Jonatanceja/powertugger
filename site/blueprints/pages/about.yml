@@ -9,5 +9,7 @@ sections:
     image: false
     templates:
       - cover
+      - center
       - first
       - vision
+      - third

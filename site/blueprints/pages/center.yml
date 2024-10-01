@@ -1,0 +1,8 @@
+title: Texto centrado
+fields:
+  heading:
+    label: Encabezado
+    type: text
+  text:
+    label: Texto
+    type: textarea

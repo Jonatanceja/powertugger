@@ -1,0 +1,6 @@
+title: Logos Blanco y Negro
+fields:
+  logos:
+    type: files
+    label: Logos
+    layout: cards

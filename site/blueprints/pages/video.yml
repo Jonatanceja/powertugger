@@ -1,0 +1,8 @@
+title: Videos
+fields:
+  videos:
+    type: url
+    label: Videos
+  description:
+    type: textarea
+    label: Descripción

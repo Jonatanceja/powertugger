@@ -1,5 +1,9 @@
 title: Destacados
 fields:
+  text:
+    text:
+      type: textarea
+      label: Texto
   related:
     label: Productos destacados
     type: pages

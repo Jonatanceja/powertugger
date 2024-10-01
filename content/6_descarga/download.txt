@@ -1,0 +1,21 @@
+Title: Descarga
+
+----
+
+Heading: Gracias por tu interes
+
+----
+
+Text:
+
+Tu formulario ha sido recibido correctamente. Apreciamos tu interés en nuestros productos. Nuestro equipo revisará la información proporcionada y se pondrá en contacto contigo lo antes posible.
+
+Mientras tanto, te invitamos a descargar nuestro catálogo para obtener más información sobre nuestra amplia gama de productos. Haz clic en el botón a continuación para iniciar la descarga.
+
+----
+
+Download: - file://g7D0s4NNJN5ZofHr
+
+----
+
+Uuid: 0xwLa0CkSBqP26hD

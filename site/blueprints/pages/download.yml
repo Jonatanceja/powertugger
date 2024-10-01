@@ -1,0 +1,12 @@
+title: Descarga
+fields:
+  heading: 
+    label: Encabezado
+    type: text
+  text:
+    label: Texto
+    type: textarea
+  download:
+    label: Archivo para descarga
+    type: files
+    

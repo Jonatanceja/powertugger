@@ -5,7 +5,7 @@
                 <x-text.subtitle>{{ $page->parent()->title() }}</x-text.subtitle>
                 <x-text.h1_light>Acerca de Powertugger</x-text.h1_light>
             </div>
-            <div class="absolute w-full h-full inset-0 bg-gradient-to-r from-gray-800 to-transparent bg-blend-multiply z-10"></div>    
+            <div class="absolute w-full h-full inset-0 bg-gradient-to-r from-zinc-800/50 to-transparent bg-blend-multiply z-10"></div>    
         </div>
     @endif
 </section>

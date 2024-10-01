@@ -9,9 +9,12 @@ sections:
     image: false
     templates:
       - hero
+      - second
       - blurbs
       - intro
       - related
       - testimonials
       - logos
+      - logos2
       - form
+      - cta

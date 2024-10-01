@@ -1,0 +1,17 @@
+Title: Quienes somos
+
+----
+
+Heading: ¿Que es lo que hacemos?
+
+----
+
+Text:
+
+**Powertugger** se especializa en ofrecer soluciones de arrastre eléctrico para la distribución, destacando en la innovación, investigación y desarrollo para proporcionar una amplia gama de productos en el mercado.
+
+Con una presencia global a través de relaciones directas y una red de socios de ventas y servicios técnicos, **Powertugger** trabaja con marcas líderes en la industria de la distribución y logística. Nuestro equipo interno de ingenieros expertos tiene un historial exitoso en la ejecución de proyectos personalizados en todo el mundo para optimizar operaciones de distribución en diversos sectores.
+
+----
+
+Uuid: xXTKQ3XlcoiBQFZd

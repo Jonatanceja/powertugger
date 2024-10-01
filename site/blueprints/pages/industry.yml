@@ -10,24 +10,9 @@ tabs:
         label: Icono
         type: files
         required: true
-      cover:
-        label: Portada
-        type: files
-        max: 1
-        layout: cards
-        size: huge
-        image:
-          ratio: 16/9
-          cover: true
-        width: 1/2
       videoTop:
         label: Video Portada
         type: files
-        layout: cards
-        width: 1/2
-        size: huge
-        image: 
-          cover: true
       image_1:
         label: Imagen 1
         type: files
@@ -66,6 +51,10 @@ tabs:
         width: 1/2
       video_2:
         label: Video 2
+        type: url
+        width: 1/2
+      video_3:
+        label: Video 3
         type: url
         width: 1/2
       how:

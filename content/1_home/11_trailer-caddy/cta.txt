@@ -1,0 +1,25 @@
+Title: Trailer Caddy
+
+----
+
+Video: https://www.youtube.com/watch?v=-ewSont-WOA&ab_channel=Powertugger
+
+----
+
+Headline: Arrastradores de trailers y cajas secas
+
+----
+
+Subtitle: Trailer Caddy
+
+----
+
+Text: Potencia tus operaciones de manejo de carga con nuestros remolcadores especializados para cajas de trailer. Diseñados para brindar máxima eficiencia y maniobrabilidad, nuestros remolcadores son capaces de remolcar cargas pesadas de **hasta 40 toneladas**.
+
+----
+
+Button: /industrias/remolcadores-de-trailers-y-cajas-secas
+
+----
+
+Uuid: fimu3n0nPhAABfoF

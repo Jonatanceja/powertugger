@@ -1,0 +1,2 @@
+<script>window.datacrm_whatsapp_config ={"type":"whatsappweb","mobile":"5213332592177","redirect_chat_whatsapp":"1","origin_campaign":"1847","connectionState":"true","whatsapp_service_token":"a3L3S7PBpZUmhFk2CIji2YNtjtPZ8S0V","whatsapp_server":"https://wamanager11.datacrm.la","code_conversion_adwords":"","appId":"","appName":"","appToken":"","keySecret":"","wabaId":"","phoneId":"","empresa":"https://app.datacrm.la/datacrm/djproducts/webservice.php"}</script> 
+<script src="https://integraciones.datacrm.la/datacrm/whatsapp_button/wpp_button.min.js"></script>

@@ -1,0 +1,21 @@
+Title: Formulario
+
+----
+
+Heading: Contáctanos
+
+----
+
+Subtitle: Solicita un presupuesto
+
+----
+
+Text: ¿Busca aumentar la seguridad y la eficiencia de sus operaciones? Póngase en contacto con nosotros y descubra cómo transformar sus procesos para aumentar la eficiencia y maximizar la seguridad en el lugar de trabajo con nuestros remolcadores eléctricos.
+
+----
+
+Pic: - file://vfhRdiEqYkKdGYoc
+
+----
+
+Uuid: d4UwJGwW7Wpm5pY2
